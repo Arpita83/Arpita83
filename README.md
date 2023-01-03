@@ -1,8 +1,8 @@
  ## About Me
 - 👋 Hi, I’m **Arpita**.
-- 👋 I am a first year Computer Science undergraduate at NIT Delhi.
+- 👋 I am a Computer Science undergraduate at NIT Delhi.
 - 👀 I’m interested in ML, Data Science and Software Development.
-- 🌱 I’m currently learning C, C++ and Data Structures.
+- 🌱 I’m currently learning C, C++, python and Data Structures.
 
 
 <!---
